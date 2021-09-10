@@ -5,7 +5,10 @@
 - 🔭 Just A 17 y.o Student
 </p>
 <p align="left">
-- 🌱 Interested In Custom Roms <img align="left" width=200px height=200px src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+- 🌱 Interested In Custom Roms
+</p>
+<p align="right">
+<img align="right" width=200px height=200px src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 </p>
 <p align="left">
 - 💬 Still Learning Stuff
