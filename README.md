@@ -5,6 +5,5 @@
 - 🔭 Just A 17 y.o Student
 - 🌱 Interested In Custom Roms 
 - 💬 Still Learning Stuff
-- 📫 How to reach me:[Telegram](https:t.me/Th30utlaw) <img align="right" width=200px height=200px src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 </p>
 
