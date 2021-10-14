@@ -5,7 +5,7 @@
 - 🔭 Just A 17 y.o Student
 </p>
 <p align="left">
-- 🌱 Interested In Custom Roms
+- Confused :/
 </p>
 <p align="left">
 - 💬 Still Learning Stuff
