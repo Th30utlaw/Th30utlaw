@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello There, Welcome To My GitHub Profile<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 <p align="left">
-- 🔭 Just A 17 y.o Student
+- 🔭 Just A 18 y.o Student
 </p>
 <p align="left">
 - Confused :/
